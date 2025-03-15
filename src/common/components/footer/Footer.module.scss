@@ -1,0 +1,19 @@
+.footer {
+  height: 120px;
+  border-top: 1px solid #c0c0c0;
+  text-align: right;
+  padding: 16px 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.text {
+  font-size: 28px;
+  line-height: 1.5;
+  font-weight: bold;
+  margin-right: 80px;
+}

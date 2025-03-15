@@ -1,0 +1,8 @@
+.header {
+  height: 80px;
+  border-bottom: 1px solid #c0c0c0;
+  padding: 16px 24px;
+  display: grid;
+  grid-template-columns: 150px 1fr 150px;
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+}
