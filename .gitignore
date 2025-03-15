@@ -1,0 +1,15 @@
+/node_modules
+
+/dist
+
+/build
+
+# typescript
+*.tsbuildinfo
+
+# ide
+.idea
+
+# eslint
+.eslintcache
+*storybook.log

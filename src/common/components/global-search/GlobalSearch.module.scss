@@ -1,0 +1,20 @@
+.wrapper {
+  justify-self: center;
+  grid-column: 2 / 3;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.search {
+  width: 400px;
+  border-radius: 3em;
+  border: 1px solid #c0c0c0;
+  height: 40px;
+  padding: 0 18px;
+  font-size: 18px;
+
+  &:hover {
+    box-shadow: #c0c0c0 0 0 5px;
+  }
+}
