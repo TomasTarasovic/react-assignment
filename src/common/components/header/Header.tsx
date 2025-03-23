@@ -6,7 +6,7 @@ export const Header = () => {
   return (
     <header className={styles.header}>
       <Logo />
-      <GlobalSearch />
+      <GlobalSearch extended />
     </header>
   );
 };
